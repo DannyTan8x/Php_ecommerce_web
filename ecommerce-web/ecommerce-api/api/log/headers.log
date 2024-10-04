@@ -1,0 +1,14 @@
+Array
+(
+    [Host] => 192.168.1.112:8000
+    [Origin] => http://192.168.1.112:3000
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundary3UgqTr1aBKKbD1tO
+    [Accept-Language] => zh-TW,zh-Hant;q=0.9
+    [Accept-Encoding] => gzip, deflate
+    [Connection] => keep-alive
+    [Accept] => application/json, text/plain, */*
+    [User-Agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15
+    [Authorization] => Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTkyLjE2OC4xLjExMjo4MDAwIiwiYXVkIjoiaHR0cDovLzE5Mi4xNjguMS4xMTI6ODAwMCIsImlhdCI6MTcyMjgyMDk2NiwibmJmIjoxNzIyODIwOTc2LCJleHAiOjE3MjI4MjQ1NjYsImRhdGEiOnsiaWQiOjEsIm5hbWUiOiJhZG1pbiIsImVtYWlsIjoiYWRtaW5AZW1haWwuY29tIiwicm9sZSI6ImFkbWluIn19.7PnSg3iOt8jbtV54isyRQ8WINO7VnheDEKIoYY-FE-k
+    [Referer] => http://192.168.1.112:3000/
+    [Content-Length] => 60074
+)
